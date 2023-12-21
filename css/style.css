@@ -1,0 +1,89 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.btn {
+  background-color: rgb(255, 0, 0);
+  color: rgb(255, 255, 255);
+  padding: 10px 20px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s, color 0.3s;
+}
+.btn span {
+  color: white;
+}
+
+button:hover {
+  background-color: #e74c3c; /* Qizil fon rang */
+  color: rgb(0, 0, 0); /* Oq rangli matn */
+}
+
+.d-flex {
+  width: 900px;
+  border-radius: 20px;
+  padding-right: 300px;
+}
+
+.img-footer {
+  width: 102px;
+  height: 30px;
+}
+
+.btn-2 {
+  width: 166px;
+  height: 48px;
+  padding: 12px 27px 15px 28px;
+  border-radius: 15px;
+  border: 1px solid rgb(0, 0, 0);
+  padding-right: 200px;
+}
+
+section {
+  display: flex;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.footer-img {
+  width: 1086px;
+  height: 382px;
+  border-radius: 10px;
+}
+
+.card {
+  margin-left: 50px;
+  border-radius: 50px;
+}
+
+.card-text-2 {
+  margin: 0px 0px 0px 8px;
+  font-size: 18px;
+  padding: 13px;
+}
+
+.card-img-top {
+  width: 50px;
+  height: 174px;
+}
+
+.text-card {
+  font-size: 18px;
+}
+
+.text-card-2 {
+  width: 133px;
+  height: 24px;
+  border-radius: 12px;
+  padding: 4px 8px;
+  margin: 0pc 139px 0px 0px;
+  background-color: #ffd740;
+  font-size: 12px;
+}
+
+.footer {
+  display: flex;
+}/*# sourceMappingURL=style.css.map */
